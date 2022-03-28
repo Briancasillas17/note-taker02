@@ -4,7 +4,7 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "jest",
     "start": "node server.js"
   },
   "repository": {
@@ -12,13 +12,18 @@
     "url": "git+https://github.com/Briancasillas17/note-taker02.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "brian",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Briancasillas17/note-taker02/issues"
   },
   "homepage": "https://github.com/Briancasillas17/note-taker02#readme",
   "dependencies": {
-    "express": "^4.17.3"
+    "express": "^4.17.1",
+    "uuid": "^8.2.0",
+    "uuidv4": "^6.2.0"
+  },
+  "engines": {
+    "node": "11.x"
   }
 }
