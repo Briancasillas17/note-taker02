@@ -37,4 +37,5 @@ Note Taker's backend was built using node.js on a localHost environment, and tes
 ## Website
 https://note-taker002.herokuapp.com/
 
+![2022-04-20 (6)](https://user-images.githubusercontent.com/95777065/164350812-60b98f85-f0ce-4913-9e71-26a743306765.png)
 
